@@ -295,7 +295,7 @@
                 </div>
                 <div class="season-spec">
                     <div class="spec-label">PESO</div>
-                    <div class="spec-value">? GB</div>
+                    <div class="spec-value">14.02 GB</div>
                 </div>
                 <div class="season-spec">
                     <div class="spec-label">RESOLUCIÓN</div>
